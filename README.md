@@ -1,0 +1,1 @@
+This project simulates how dirt builds up inside a heat exchanger and sometimes causes sudden drops in performance. It shows that small fouling events happen often, but big failures are rare and unavoidable, highlighting the need for regular preventive cleaning.
